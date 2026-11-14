@@ -1,6 +1,9 @@
 # Post-contenido — Manejo de Pantalla y Teclado: Programación en NASM sobre DOSBox
 
 **Asignatura:** Arquitectura de Computadores (UFPS) · **Unidad 7** · Post-contenido
+
+**Estudiante:** Diego Alferez
+
 **Repositorio:** `Alferez-post7-u7` (único para las dos partes)
 
 Este repositorio reúne el laboratorio guiado de la Unidad 7. El estudiante implementó en ensamblador x86 (NASM, formato `bin`, programas `.COM`) nueve programas que se ejecutaron en DOSBox 0.74-3: cuatro de salida de texto y control de pantalla (Parte 1) y cinco de lectura de teclado y acceso directo a la memoria de video (Parte 2).
